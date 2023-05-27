@@ -11,6 +11,7 @@ Secondary objective is help the customers in deciding best period to visit place
 
 ## Motivation
 To try and answer following questions from data:
+(Here few questions has been mentioned)
 * What are the hotel preferences of guests?
 * From which country do the majority of guests visit the hotel?
 * What is the booking trend of hotels round the year?
@@ -25,3 +26,5 @@ To try and answer following questions from data:
 * Pandas
 * Matplotlib
 * Seaborn
+* Folium
+* Plotly
